@@ -2,9 +2,7 @@
 
 Verify nft.
 
-// 8JWyCQzB3FBXMiZBdLd1L6nYneNaowwffC4DQWd4YEGk
-
-**URL** : `/verifyNft/`
+**URL** : `/verifyNft`
 
 **Method** : `GET`
 
@@ -34,8 +32,7 @@ Query Params
 **Content example**
 
 ```json
-"[nftAddress]
-Nft creator is verified ✅"
+"[nftAddress] Nft creator is verified ✅"
 ```
 
 ## Error Response

@@ -1,4 +1,4 @@
-# SOLANA NFY VERIFY
+# SOLANA NFT VERIFY
 
 ## How start emulator
 
